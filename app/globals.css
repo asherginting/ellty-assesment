@@ -14,13 +14,14 @@
   --color-gray-300: #cdcdcd;
   --color-gray-200: #e3e3e3;
   --color-gray-150: #eeeeee;
-  --color-gray-50: #f9fafb;  
+  --color-gray-50: #f9fafb;
   --color-yellow-400: #ffce22;
-  --color-yellow-300: #ffd84d; 
+  --color-yellow-300: #ffd84d;
   --color-blue-500: #2469f6;
   --color-blue-400: #5087f8;
   --color-white: #ffffff;
   --font-sans: var(--font-montserrat);
+  --shadow-card: 0px 8px 15px 0px #1414141f, 0px 0px 4px 0px #1414141a;
 }
 
 body {
@@ -30,4 +31,13 @@ body {
     BlinkMacSystemFont, "Segoe UI", sans-serif;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
+}
+
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
 }
