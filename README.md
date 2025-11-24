@@ -1,5 +1,5 @@
 <a href="https://www.ellty.com/">
-    <img src="https://i.ibb.co.com/0jzKv3mz/518201116-9ebb0d90-b4f8-492f-af0a-b88ebccf3a32.png" height="80" alt="Ellty-Logo" title="Ellty" align="right" />
+    <img src="https://i.ibb.co.com/0jzKv3mz/518201116-9ebb0d90-b4f8-492f-af0a-b88ebccf3a32.png" height="50" alt="Ellty-Logo" title="Ellty" align="right" />
 </a>
 
 # First Test Assignment
